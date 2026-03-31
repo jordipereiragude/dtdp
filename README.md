@@ -22,4 +22,14 @@ The folder contains a file with the results from the different LNS variants
 
 * lns.results.txt: results obtained by the proposed LNS method. Each line reports the metrics obtained for one instance
 
+- instances
+
+Folder with instances. The folder contains instances according to description used in "An efficient probability-based VNS algorithm for delivery territory design". The LNS code uses a modified format. To convert files from the original format to the alternative one use accompanying script located in scripts folder
+
+The instances are divided in subfolders as follows:
+
+* group1: planar instances identified by type (planar) number of BUs (500, 600, 700) and instance number (G0 to G9)
+* group2: structured instances identified by type (Center, Corners, Diagonal) number of BUs (486, 600, 726) and instance number (G0 to G9)
+* group3: structured instances with different attribute distributions identified by type (Center, Corners, Diagonal) number of BUs (486, 600, 726), instance number (G0 to G9) and distribution (l, m or h) per attribute (demand, workers and customers). 
+
 
