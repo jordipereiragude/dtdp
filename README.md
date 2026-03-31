@@ -30,6 +30,9 @@ The instances are divided in subfolders as follows:
 * group2: structured instances identified by type (Center, Corners, Diagonal) number of BUs (486, 600, 726) and instance number (G0 to G9)
 * group3: structured instances with different attribute distributions identified by type (Center, Corners, Diagonal) number of BUs (486, 600, 726), instance number (G0 to G9) and distribution (l, m or h) per attribute (demand, workers and customers). 
 
+### irace
+
+Folder with results of irace experiments and instances used during test.
 
 ### resultsLNS
 
