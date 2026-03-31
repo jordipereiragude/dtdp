@@ -12,8 +12,14 @@ Partial contents of repo https://github.com/ahmed-o-aly/TerritoryDesign detailin
 
 The following files are included:
 
-- DTDPAlgorithms.py: Base file with code for the VNS approach detailed in the paper
-- vns.low.code.py, vns.medium.code.py, vns.high.code.py: Codes used to execute low, medium and high parameter variants of the VNS method
-- vns.low.results.txt, vns.medium.results.txt,  vns.high.results.txt: results obtained by these codes. Each line reports the metrics obtained for one instance
+* DTDPAlgorithms.py: Base file with code for the VNS approach detailed in the paper
+* vns.low.code.py, vns.medium.code.py, vns.high.code.py: Codes used to execute low, medium and high parameter variants of the VNS method
+* vns.low.results.txt, vns.medium.results.txt,  vns.high.results.txt: results obtained by these codes. Each line reports the metrics obtained for one instance
+
+- resultsLNS
+
+The folder contains a file with the results from the different LNS variants
+
+* lns.results.txt: results obtained by the proposed LNS method. Each line reports the metrics obtained for one instance
 
 
