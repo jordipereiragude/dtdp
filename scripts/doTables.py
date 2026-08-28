@@ -16,6 +16,7 @@ import statistics
 from pathlib import Path
 from types import SimpleNamespace
 from typing import Callable, Iterable
+import xml.etree.ElementTree as ET
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT = SCRIPT_DIR.parent
@@ -603,34 +604,62 @@ def _build_lns_vns_helpers() -> SimpleNamespace:
             grouped[run.instance].append(run)
         return dict(grouped)
 
-    def read_instance_adjacency(
+    def read_graphml_adjacency(
         source: Path,
     ) -> list[list[tuple[int, float]]]:
-        tokens = iter(source.read_text().split())
         try:
-            node_count = int(next(tokens))
-            edge_count = int(next(tokens))
-            resource_count = int(next(tokens))
-            next(tokens)  # number of districts
-            next(tokens)  # balance tolerance
+            root = ET.parse(source).getroot()
+            namespace = ""
+            if root.tag.startswith("{"):
+                namespace = root.tag[1 : root.tag.index("}")]
 
-            node_indices: dict[int, int] = {}
-            for index in range(node_count):
-                node_indices[int(next(tokens))] = index
-                for _ in range(resource_count):
-                    next(tokens)
+            def tag(local_name: str) -> str:
+                return f"{{{namespace}}}{local_name}" if namespace else local_name
+
+            if root.tag != tag("graphml"):
+                raise ValueError("root element is not graphml")
+
+            distance_keys = {
+                key.attrib["id"]
+                for key in root.findall(tag("key"))
+                if key.attrib.get("for") in {"edge", "all"}
+                and key.attrib.get("attr.name") == "distance"
+            }
+            if len(distance_keys) != 1:
+                raise ValueError("expected one edge distance key")
+            distance_key = next(iter(distance_keys))
+
+            graph = root.find(tag("graph"))
+            if graph is None:
+                raise ValueError("missing graph element")
+            if graph.attrib.get("edgedefault") != "undirected":
+                raise ValueError("expected an undirected graph")
+
+            nodes = graph.findall(tag("node"))
+            node_indices = {
+                node.attrib["id"]: index for index, node in enumerate(nodes)
+            }
+            if len(node_indices) != len(nodes):
+                raise ValueError("duplicate node identifier")
 
             adjacency: list[list[tuple[int, float]]] = [
-                [] for _ in range(node_count)
+                [] for _ in nodes
             ]
-            for _ in range(edge_count):
-                left = node_indices[int(next(tokens))]
-                right = node_indices[int(next(tokens))]
-                distance = float(next(tokens))
+            for edge in graph.findall(tag("edge")):
+                left = node_indices[edge.attrib["source"]]
+                right = node_indices[edge.attrib["target"]]
+                distance_values = [
+                    data.text
+                    for data in edge.findall(tag("data"))
+                    if data.attrib.get("key") == distance_key
+                ]
+                if len(distance_values) != 1 or distance_values[0] is None:
+                    raise ValueError("edge is missing its distance")
+                distance = float(distance_values[0])
                 adjacency[left].append((right, distance))
                 adjacency[right].append((left, distance))
-        except (KeyError, StopIteration, ValueError) as error:
-            raise ValueError(f"{source}: malformed instance file") from error
+        except (ET.ParseError, KeyError, OSError, ValueError) as error:
+            raise ValueError(f"{source}: malformed GraphML instance") from error
         return adjacency
 
     def preceding_shortest_path_distance(
@@ -638,7 +667,7 @@ def _build_lns_vns_helpers() -> SimpleNamespace:
         reported_threshold: float,
     ) -> float:
         """Recover the p-dispersion bound preceding the reported threshold."""
-        adjacency = read_instance_adjacency(source)
+        adjacency = read_graphml_adjacency(source)
         # exp03 prints the first infeasible distance threshold to three decimal
         # places. The p-dispersion bound is the preceding distinct all-pairs
         # shortest-path distance.
@@ -693,11 +722,13 @@ def _build_lns_vns_helpers() -> SimpleNamespace:
                 continue
             if instance in lower_bounds:
                 raise ValueError(f"duplicate lower bound for {instance}")
-            instance_source = (
+            # The archived result records retain the old .txt instance names,
+            # but the bound is recovered directly from the original GraphML.
+            graphml_source = (
                 LOWER_BOUND_OUTPUT.parent / match.group("instance")
-            ).resolve()
+            ).resolve().with_suffix(".graphml")
             lower_bounds[instance] = preceding_shortest_path_distance(
-                instance_source,
+                graphml_source,
                 float(match.group("value")),
             )
 
