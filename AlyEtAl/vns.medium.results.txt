@@ -68,7 +68,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Corners486_G3.graphml Best objective: 169 Infeasibility: 0.0 Total time (s): 111.6035258769989
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Center600_G0.graphml Best objective: 258 Infeasibility: 0.0 Total time (s): 140.834317445755
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Center486_G0.graphml Best objective: 195 Infeasibility: 0.004383116883116818 Total time (s): 142.90239310264587
-Instance: TGraphInstances/planar500_G5.graphml Best objective: 46.8958030791595 Infeasibility: 0.0 Total time (s): 440.3333489894867
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Diagonal600_G1.graphml Best objective: 241 Infeasibility: 0.0 Total time (s): 149.34036707878113
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Corners726_G0.graphml Best objective: 232 Infeasibility: 0.013368866908815547 Total time (s): 197.46176409721375
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Center486_G0.graphml Best objective: 206 Infeasibility: 0.0 Total time (s): 524.6670558452606
@@ -129,26 +128,21 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Corne
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Center726_G1.graphml Best objective: 267 Infeasibility: 0.1618936449420753 Total time (s): 278.7462389469147
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-h-Diagonal726_G1.graphml Best objective: 251 Infeasibility: 0.0 Total time (s): 171.1604483127594
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Corners486_G2.graphml Best objective: 193 Infeasibility: 0.005313859540086888 Total time (s): 169.70006465911865
-Instance: TGraphInstances/planar600_G3.graphml Best objective: 48.28817446989325 Infeasibility: 0.0 Total time (s): 159.81902384757996
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Center486_G3.graphml Best objective: 192 Infeasibility: 0.0 Total time (s): 107.40123248100281
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-h-Corners486_G3.graphml Best objective: 169 Infeasibility: 0.0 Total time (s): 104.15815496444702
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Diagonal600_G0.graphml Best objective: 211 Infeasibility: 0.0 Total time (s): 352.7289710044861
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Corners486_G6.graphml Best objective: 202 Infeasibility: 0.0 Total time (s): 282.32354402542114
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-h-Center726_G0.graphml Best objective: 270 Infeasibility: 0.0 Total time (s): 256.73904371261597
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Diagonal600_G0.graphml Best objective: 203 Infeasibility: 0.05692204301075286 Total time (s): 161.30552887916565
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G8.graphml Best objective: 221 Infeasibility: 0.0 Total time (s): 162.39716911315918
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-m-Center600_G3.graphml Best objective: 236 Infeasibility: 0.0 Total time (s): 173.7197597026825
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G5.graphml Best objective: 220 Infeasibility: 0.0007906242808770595 Total time (s): 235.31580448150635
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Diagonal600_G5.graphml Best objective: 208 Infeasibility: 0.0 Total time (s): 169.67033338546753
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Corners486_G4.graphml Best objective: 222 Infeasibility: 0.0 Total time (s): 143.20163559913635
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Diagonal600_G6.graphml Best objective: 263 Infeasibility: 0.0 Total time (s): 191.07332062721252
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G3.graphml Best objective: 237 Infeasibility: 0.0 Total time (s): 216.8495078086853
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Diagonal726_G1.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 285.7072525024414
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Diagonal726_G9.graphml Best objective: 285 Infeasibility: 0.05437478470547698 Total time (s): 328.6753556728363
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Diagonal486_G1.graphml Best objective: 211 Infeasibility: 0.0 Total time (s): 144.63072896003723
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Diagonal726_G7.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 263.49213576316833
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Diagonal726_G9.graphml Best objective: 249 Infeasibility: 0.05770545420234771 Total time (s): 225.24011540412903
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G0.graphml Best objective: 262 Infeasibility: 0.0 Total time (s): 217.24933338165283
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Center600_G3.graphml Best objective: 224 Infeasibility: 0.0006561641218568395 Total time (s): 182.77755522727966
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Center486_G5.graphml Best objective: 162 Infeasibility: 0.1297870672863171 Total time (s): 135.46384453773499
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-m-Diagonal726_G0.graphml Best objective: 287 Infeasibility: 0.0 Total time (s): 181.27511048316956
@@ -205,11 +199,9 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Corne
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Center486_G5.graphml Best objective: 170 Infeasibility: 0.0 Total time (s): 141.31566429138184
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-h-Diagonal600_G5.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 301.5705740451813
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Diagonal600_G8.graphml Best objective: 259 Infeasibility: 0.0 Total time (s): 203.989422082901
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G1.graphml Best objective: 283 Infeasibility: 0.03199338579085409 Total time (s): 308.8849022388458
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-l-Center726_G5.graphml Best objective: 266 Infeasibility: 0.0 Total time (s): 205.19812297821045
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-l-Diagonal600_G0.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 173.38095617294312
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-l-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 181.83296608924866
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G0.graphml Best objective: 188 Infeasibility: 0.0 Total time (s): 131.96306562423706
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Corners600_G7.graphml Best objective: 185 Infeasibility: 0.0 Total time (s): 130.43029189109802
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-m-Corners726_G1.graphml Best objective: 274 Infeasibility: 0.0 Total time (s): 250.93068313598633
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-l-Diagonal726_G2.graphml Best objective: 257 Infeasibility: 0.0 Total time (s): 346.7877972126007
@@ -220,11 +212,9 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-l-Corners726_G0.graphml Best objective: 241 Infeasibility: 0.04615384615384611 Total time (s): 261.84422636032104
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Center486_G7.graphml Best objective: 186 Infeasibility: 0.0 Total time (s): 123.45409226417542
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Corners726_G7.graphml Best objective: 231 Infeasibility: 0.0 Total time (s): 189.42112040519714
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G6.graphml Best objective: 265 Infeasibility: 0.0011025812419400668 Total time (s): 248.09677982330322
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-h-Corners486_G8.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 246.5751292705536
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Center600_G9.graphml Best objective: 230 Infeasibility: 0.0 Total time (s): 141.68168592453003
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Diagonal600_G0.graphml Best objective: 249 Infeasibility: 0.0 Total time (s): 330.74909234046936
-Instance: TGraphInstances/planar500_G6.graphml Best objective: 45.585520219230546 Infeasibility: 0.0 Total time (s): 245.6738395690918
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-m-Corners726_G7.graphml Best objective: 272 Infeasibility: 0.0 Total time (s): 262.2780065536499
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-m-Center726_G7.graphml Best objective: 222 Infeasibility: 0.0 Total time (s): 187.87504243850708
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Center726_G9.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 175.82674884796143
@@ -264,7 +254,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Corners726_G8.graphml Best objective: 254 Infeasibility: 0.04537494044825274 Total time (s): 238.12649202346802
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-m-Corners600_G0.graphml Best objective: 217 Infeasibility: 0.0 Total time (s): 165.28438425064087
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Corners726_G6.graphml Best objective: 245 Infeasibility: 0.0300801068542354 Total time (s): 172.93680715560913
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G0.graphml Best objective: 242 Infeasibility: 0.0 Total time (s): 187.07502341270447
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Center486_G9.graphml Best objective: 161 Infeasibility: 0.0 Total time (s): 170.535747051239
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Center726_G8.graphml Best objective: 259 Infeasibility: 0.0 Total time (s): 204.68800020217896
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Diagonal486_G9.graphml Best objective: 188 Infeasibility: 0.004206126987726739 Total time (s): 136.73571133613586
@@ -297,7 +286,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Diagonal600_G1.graphml Best objective: 239 Infeasibility: 0.0 Total time (s): 172.97923469543457
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Center726_G3.graphml Best objective: 238 Infeasibility: 0.0 Total time (s): 250.95270371437073
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Diagonal600_G9.graphml Best objective: 227 Infeasibility: 0.0 Total time (s): 164.42202377319336
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G3.graphml Best objective: 238 Infeasibility: 0.003941594600836478 Total time (s): 388.470281124115
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Corners600_G1.graphml Best objective: 221 Infeasibility: 0.0 Total time (s): 184.0711932182312
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Center600_G5.graphml Best objective: 261 Infeasibility: 0.0 Total time (s): 185.97259306907654
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Diagonal600_G3.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 131.3151249885559
@@ -318,11 +306,9 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-m-Diagonal600_G5.graphml Best objective: 200 Infeasibility: 0.0 Total time (s): 143.03949880599976
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-l-Diagonal600_G7.graphml Best objective: 268 Infeasibility: 0.009314974779621774 Total time (s): 428.1676263809204
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Corners726_G3.graphml Best objective: 238 Infeasibility: 0.0 Total time (s): 295.83664727211
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G4.graphml Best objective: 226 Infeasibility: 0.0 Total time (s): 225.70431900024414
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Corners486_G5.graphml Best objective: 229 Infeasibility: 0.00045521178921355666 Total time (s): 181.66267848014832
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Diagonal600_G1.graphml Best objective: 244 Infeasibility: 0.0 Total time (s): 182.99930930137634
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-l-Corners726_G0.graphml Best objective: 262 Infeasibility: 0.0 Total time (s): 218.94340062141418
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G9.graphml Best objective: 163 Infeasibility: 0.0 Total time (s): 120.66244888305664
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Diagonal726_G1.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 176.61626935005188
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-l-Diagonal726_G8.graphml Best objective: 263 Infeasibility: 0.02401000220174253 Total time (s): 280.0846378803253
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Corners726_G4.graphml Best objective: 242 Infeasibility: 0.0 Total time (s): 182.00921440124512
@@ -371,7 +357,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Center486_G2.graphml Best objective: 214 Infeasibility: 0.0 Total time (s): 190.08764004707336
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Diagonal600_G7.graphml Best objective: 270 Infeasibility: 0.0 Total time (s): 274.62572169303894
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Diagonal486_G2.graphml Best objective: 185 Infeasibility: 0.0 Total time (s): 118.96728301048279
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 190.11114931106567
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Center600_G4.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 207.60671019554138
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-l-Diagonal486_G5.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 185.6766700744629
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-m-Center486_G5.graphml Best objective: 173 Infeasibility: 0.0 Total time (s): 152.3792576789856
@@ -391,7 +376,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Center726_G7.graphml Best objective: 215 Infeasibility: 0.0003304515358069391 Total time (s): 376.22176599502563
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-l-Center726_G4.graphml Best objective: 286 Infeasibility: 0.0 Total time (s): 172.81180477142334
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Corners486_G2.graphml Best objective: 185 Infeasibility: 0.0 Total time (s): 109.90479707717896
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G4.graphml Best objective: 188 Infeasibility: 0.0 Total time (s): 117.79832673072815
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Diagonal600_G4.graphml Best objective: 198 Infeasibility: 0.0 Total time (s): 140.11933851242065
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Diagonal726_G7.graphml Best objective: 217 Infeasibility: 0.0 Total time (s): 318.14181995391846
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-l-Center726_G5.graphml Best objective: 267 Infeasibility: 0.0 Total time (s): 214.88043665885925
@@ -408,7 +392,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Corners600_G6.graphml Best objective: 238 Infeasibility: 0.000977176438430939 Total time (s): 140.3128125667572
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Center486_G6.graphml Best objective: 218 Infeasibility: 0.0 Total time (s): 122.3275396823883
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-m-Diagonal600_G0.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 224.22687363624573
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G7.graphml Best objective: 182 Infeasibility: 0.0 Total time (s): 133.29085779190063
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Corners600_G2.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 142.32154369354248
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-h-Corners600_G2.graphml Best objective: 237 Infeasibility: 0.0 Total time (s): 211.3657946586609
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-m-Corners726_G2.graphml Best objective: 229 Infeasibility: 0.0 Total time (s): 188.0981056690216
@@ -450,11 +433,9 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-l-Diagonal486_G7.graphml Best objective: 157 Infeasibility: 0.0 Total time (s): 128.62155032157898
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Diagonal600_G3.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 135.3031837940216
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Corners486_G2.graphml Best objective: 189 Infeasibility: 0.016465256797583046 Total time (s): 174.72518491744995
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G8.graphml Best objective: 263 Infeasibility: 0.0019505415508483486 Total time (s): 304.8191092014313
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-m-Diagonal726_G8.graphml Best objective: 281 Infeasibility: 0.0 Total time (s): 220.40391302108765
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-h-Center600_G5.graphml Best objective: 247 Infeasibility: 0.11725282887599135 Total time (s): 231.03241968154907
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-m-Diagonal726_G3.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 161.84379482269287
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G9.graphml Best objective: 271 Infeasibility: 0.0 Total time (s): 216.6746106147766
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-l-Center726_G8.graphml Best objective: 260 Infeasibility: 0.0 Total time (s): 214.61682987213135
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-l-Corners486_G9.graphml Best objective: 192 Infeasibility: 0.10255534403330777 Total time (s): 156.99977111816406
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-m-Diagonal726_G2.graphml Best objective: 255 Infeasibility: 0.0 Total time (s): 190.95127415657043
@@ -531,11 +512,9 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 177.65616726875305
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Diagonal486_G1.graphml Best objective: 204 Infeasibility: 0.0 Total time (s): 121.84813451766968
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Diagonal486_G8.graphml Best objective: 169 Infeasibility: 0.03012537197023937 Total time (s): 169.0558295249939
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G1.graphml Best objective: 276 Infeasibility: 0.04119606029056734 Total time (s): 249.71667909622192
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Diagonal486_G5.graphml Best objective: 209 Infeasibility: 0.0 Total time (s): 122.35751700401306
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-l-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 173.67664313316345
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Center600_G9.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 155.2944462299347
-Instance: TGraphInstances/planar600_G2.graphml Best objective: 44.87829979817026 Infeasibility: 0.0 Total time (s): 321.31696367263794
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Diagonal726_G0.graphml Best objective: 271 Infeasibility: 0.0 Total time (s): 295.31961941719055
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Corners600_G8.graphml Best objective: 221 Infeasibility: 0.0 Total time (s): 139.5734088420868
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Corners486_G2.graphml Best objective: 189 Infeasibility: 0.0 Total time (s): 109.55150961875916
@@ -548,7 +527,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-h-Diagonal600_G7.graphml Best objective: 256 Infeasibility: 0.0 Total time (s): 284.34422278404236
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Center486_G5.graphml Best objective: 175 Infeasibility: 0.0 Total time (s): 118.45023131370544
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-l-Diagonal600_G8.graphml Best objective: 232 Infeasibility: 0.006167970916261149 Total time (s): 200.77825713157654
-Instance: TGraphInstances/planar600_G8.graphml Best objective: 46.95077789968647 Infeasibility: 0.0 Total time (s): 187.12098145484924
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Center600_G9.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 140.98181819915771
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-m-Corners726_G1.graphml Best objective: 261 Infeasibility: 0.05515746168439925 Total time (s): 316.3276550769806
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Diagonal726_G0.graphml Best objective: 275 Infeasibility: 0.03417877707704956 Total time (s): 594.5643293857574
@@ -598,8 +576,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Diagonal600_G4.graphml Best objective: 199 Infeasibility: 0.0 Total time (s): 176.89663910865784
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-m-Corners486_G8.graphml Best objective: 214 Infeasibility: 0.01245533800200074 Total time (s): 158.68997192382812
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-m-Center726_G0.graphml Best objective: 265 Infeasibility: 0.0 Total time (s): 181.38048577308655
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G6.graphml Best objective: 219 Infeasibility: 0.006507734521016337 Total time (s): 286.2006576061249
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G3.graphml Best objective: 192 Infeasibility: 0.0 Total time (s): 111.2649393081665
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-m-Center600_G6.graphml Best objective: 190 Infeasibility: 0.010606060606060614 Total time (s): 208.2953860759735
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Corners726_G3.graphml Best objective: 234 Infeasibility: 0.0 Total time (s): 219.7455027103424
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Corners600_G5.graphml Best objective: 225 Infeasibility: 0.0 Total time (s): 154.47044444084167
@@ -611,7 +587,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Corners600_G8.graphml Best objective: 265 Infeasibility: 0.011827060388308651 Total time (s): 338.68049573898315
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-l-Diagonal486_G6.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 144.68654918670654
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-l-Diagonal600_G3.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 144.13856029510498
-Instance: TGraphInstances/planar600_G5.graphml Best objective: 44.19660620252979 Infeasibility: 0.0 Total time (s): 778.3749849796295
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-m-Diagonal486_G8.graphml Best objective: 174 Infeasibility: 0.0 Total time (s): 151.41718745231628
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Diagonal726_G5.graphml Best objective: 217 Infeasibility: 0.0 Total time (s): 343.8795392513275
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Corners726_G4.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 179.1209876537323
@@ -648,7 +623,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-l-Center600_G3.graphml Best objective: 235 Infeasibility: 0.0008763766092755403 Total time (s): 390.6787271499634
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-m-Diagonal726_G6.graphml Best objective: 251 Infeasibility: 0.007562852040115395 Total time (s): 257.9606490135193
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-m-Diagonal726_G2.graphml Best objective: 255 Infeasibility: 0.0 Total time (s): 181.31460094451904
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G4.graphml Best objective: 225 Infeasibility: 0.0 Total time (s): 132.82299280166626
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Diagonal486_G4.graphml Best objective: 196 Infeasibility: 0.0 Total time (s): 109.2878270149231
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-h-Center486_G5.graphml Best objective: 175 Infeasibility: 0.0 Total time (s): 170.20894742012024
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Diagonal726_G0.graphml Best objective: 262 Infeasibility: 0.025512012090260005 Total time (s): 383.251522064209
@@ -656,7 +630,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Center726_G2.graphml Best objective: 245 Infeasibility: 0.0 Total time (s): 365.7620723247528
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Corners600_G8.graphml Best objective: 224 Infeasibility: 0.0 Total time (s): 212.10671544075012
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Corners486_G1.graphml Best objective: 181 Infeasibility: 0.0 Total time (s): 115.3743782043457
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G9.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 180.9537332057953
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Corners486_G0.graphml Best objective: 221 Infeasibility: 0.0 Total time (s): 229.11065006256104
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Diagonal486_G9.graphml Best objective: 198 Infeasibility: 0.020069552221647285 Total time (s): 459.80829334259033
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-m-Diagonal600_G9.graphml Best objective: 224 Infeasibility: 0.0 Total time (s): 189.79329371452332
@@ -718,7 +691,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Center600_G4.graphml Best objective: 230 Infeasibility: 0.0 Total time (s): 192.4893138408661
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Corners726_G1.graphml Best objective: 272 Infeasibility: 0.04830123861451672 Total time (s): 517.1456224918365
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Corners486_G5.graphml Best objective: 235 Infeasibility: 0.0 Total time (s): 268.3205683231354
-Instance: TGraphInstances/planar700_G9.graphml Best objective: 46.34528804867887 Infeasibility: 0.0 Total time (s): 689.6684663295746
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-h-Center486_G2.graphml Best objective: 195 Infeasibility: 0.0 Total time (s): 114.8704822063446
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Corners486_G9.graphml Best objective: 205 Infeasibility: 0.0 Total time (s): 128.7346260547638
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Center726_G5.graphml Best objective: 278 Infeasibility: 0.0 Total time (s): 405.6519966125488
@@ -731,7 +703,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Diagonal726_G6.graphml Best objective: 236 Infeasibility: 0.0 Total time (s): 187.3303518295288
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Center726_G6.graphml Best objective: 271 Infeasibility: 0.0 Total time (s): 301.7296679019928
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-m-Diagonal726_G1.graphml Best objective: 247 Infeasibility: 0.0 Total time (s): 186.81774020195007
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G1.graphml Best objective: 184 Infeasibility: 0.01540548121172721 Total time (s): 116.39623594284058
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-l-Center486_G0.graphml Best objective: 203 Infeasibility: 0.0005266371546329221 Total time (s): 256.39057183265686
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Center486_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 195.63759684562683
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-h-Diagonal486_G5.graphml Best objective: 235 Infeasibility: 0.00044623681573020124 Total time (s): 97.30833125114441
@@ -741,7 +712,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Corners486_G0.graphml Best objective: 207 Infeasibility: 0.025158363293956404 Total time (s): 108.52773785591125
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-h-Corners486_G7.graphml Best objective: 182 Infeasibility: 0.0 Total time (s): 139.1471540927887
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Center726_G5.graphml Best objective: 279 Infeasibility: 0.001034692635422867 Total time (s): 291.45382857322693
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G2.graphml Best objective: 211 Infeasibility: 0.0 Total time (s): 173.7468819618225
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Center600_G8.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 151.36856293678284
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Corners600_G9.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 147.07070803642273
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Diagonal486_G5.graphml Best objective: 218 Infeasibility: 0.043089283504361114 Total time (s): 185.60200881958008
@@ -751,7 +721,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-l-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Center726_G4.graphml Best objective: 251 Infeasibility: 0.0 Total time (s): 189.30323767662048
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Diagonal726_G2.graphml Best objective: 257 Infeasibility: 0.0 Total time (s): 188.90326952934265
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-m-Diagonal600_G8.graphml Best objective: 259 Infeasibility: 0.0 Total time (s): 171.0562083721161
-Instance: TGraphInstances/planar700_G2.graphml Best objective: 46.88160490115641 Infeasibility: 0.0 Total time (s): 202.30096054077148
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Corners486_G0.graphml Best objective: 221 Infeasibility: 0.04509388702090276 Total time (s): 157.25668811798096
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Corners486_G4.graphml Best objective: 226 Infeasibility: 0.0 Total time (s): 249.10113215446472
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-l-Diagonal726_G2.graphml Best objective: 255 Infeasibility: 0.0 Total time (s): 273.8903000354767
@@ -763,7 +732,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-l-Center600_G6.graphml Best objective: 186 Infeasibility: 0.07756979317664264 Total time (s): 133.3103985786438
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-h-Center600_G3.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 149.6544632911682
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Corners486_G7.graphml Best objective: 173 Infeasibility: 0.02660728117738198 Total time (s): 124.1166570186615
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G4.graphml Best objective: 203 Infeasibility: 0.024570695544047904 Total time (s): 256.60154461860657
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Diagonal486_G6.graphml Best objective: 218 Infeasibility: 0.0185398638311786 Total time (s): 161.3131697177887
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Diagonal486_G1.graphml Best objective: 204 Infeasibility: 0.0 Total time (s): 118.87858653068542
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-m-Diagonal600_G4.graphml Best objective: 197 Infeasibility: 0.0 Total time (s): 178.28809142112732
@@ -785,7 +753,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Diagonal726_G0.graphml Best objective: 268 Infeasibility: 0.0 Total time (s): 496.6409010887146
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Center600_G4.graphml Best objective: 241 Infeasibility: 0.0 Total time (s): 175.56281161308289
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Center600_G2.graphml Best objective: 195 Infeasibility: 0.0 Total time (s): 162.69755101203918
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G8.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 145.58530235290527
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-h-Corners486_G5.graphml Best objective: 222 Infeasibility: 0.0 Total time (s): 155.46016263961792
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Center486_G1.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 206.4280960559845
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Diagonal600_G8.graphml Best objective: 259 Infeasibility: 0.0 Total time (s): 413.85377955436707
@@ -804,7 +771,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Diagonal486_G2.graphml Best objective: 185 Infeasibility: 0.0 Total time (s): 106.23890423774719
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Center486_G4.graphml Best objective: 191 Infeasibility: 0.0 Total time (s): 126.4093599319458
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-h-Diagonal486_G9.graphml Best objective: 203 Infeasibility: 0.01392002423508036 Total time (s): 171.5634126663208
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G2.graphml Best objective: 203 Infeasibility: 0.0 Total time (s): 119.0199248790741
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Diagonal486_G0.graphml Best objective: 219 Infeasibility: 0.14078974032439584 Total time (s): 155.80172300338745
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Center726_G4.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 244.30280900001526
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-m-Corners600_G0.graphml Best objective: 230 Infeasibility: 0.0 Total time (s): 147.220139503479
@@ -850,7 +816,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-m-Corners726_G0.graphml Best objective: 241 Infeasibility: 0.015038547110260286 Total time (s): 227.17366790771484
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Diagonal486_G2.graphml Best objective: 185 Infeasibility: 0.0 Total time (s): 116.58964323997498
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Center486_G8.graphml Best objective: 217 Infeasibility: 0.0 Total time (s): 156.37224125862122
-Instance: TGraphInstances/planar600_G1.graphml Best objective: 47.06125569162368 Infeasibility: 0.0 Total time (s): 271.32428216934204
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-l-Center600_G4.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 281.9897394180298
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-l-Center486_G4.graphml Best objective: 228 Infeasibility: 0.0 Total time (s): 234.2401146888733
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Center726_G6.graphml Best objective: 278 Infeasibility: 0.0 Total time (s): 183.82451248168945
@@ -866,7 +831,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Diagonal486_G6.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 164.15119194984436
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-m-Center726_G5.graphml Best objective: 268 Infeasibility: 0.0 Total time (s): 204.98272728919983
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-m-Diagonal600_G6.graphml Best objective: 216 Infeasibility: 0.0 Total time (s): 177.2451949119568
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G2.graphml Best objective: 231 Infeasibility: 0.0 Total time (s): 175.03573322296143
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Corners600_G8.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 148.83520078659058
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Diagonal486_G0.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 209.253071308136
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-m-Center486_G3.graphml Best objective: 188 Infeasibility: 0.0 Total time (s): 118.61624217033386
@@ -895,14 +859,12 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-m-Diagonal726_G6.graphml Best objective: 235 Infeasibility: 0.026332739481978937 Total time (s): 215.65570378303528
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Center726_G4.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 185.0128436088562
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Corners600_G6.graphml Best objective: 245 Infeasibility: 0.0 Total time (s): 153.74272871017456
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G1.graphml Best objective: 232 Infeasibility: 0.010238239276351525 Total time (s): 174.3427882194519
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-l-Center486_G4.graphml Best objective: 202 Infeasibility: 0.006066828932413448 Total time (s): 282.7520751953125
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Center486_G5.graphml Best objective: 164 Infeasibility: 0.10786362993310031 Total time (s): 160.69255805015564
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Diagonal600_G2.graphml Best objective: 246 Infeasibility: 0.0 Total time (s): 159.79035711288452
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Diagonal486_G6.graphml Best objective: 213 Infeasibility: 0.04295098532084856 Total time (s): 149.07847833633423
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-h-Diagonal726_G3.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 181.16688346862793
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-m-Corners600_G1.graphml Best objective: 208 Infeasibility: 0.0 Total time (s): 173.32745718955994
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G5.graphml Best objective: 168 Infeasibility: 0.0012477879302249728 Total time (s): 200.00674176216125
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Corners486_G9.graphml Best objective: 192 Infeasibility: 0.010385488787340254 Total time (s): 202.81621146202087
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-m-Corners726_G8.graphml Best objective: 263 Infeasibility: 0.0044073463955613046 Total time (s): 326.87778639793396
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Diagonal726_G5.graphml Best objective: 227 Infeasibility: 0.0028413245570411156 Total time (s): 290.8268485069275
@@ -944,7 +906,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-m-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-h-Corners600_G7.graphml Best objective: 180 Infeasibility: 0.0 Total time (s): 177.69927334785461
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Diagonal600_G0.graphml Best objective: 211 Infeasibility: 0.04983620457917472 Total time (s): 188.20946168899536
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Diagonal486_G2.graphml Best objective: 185 Infeasibility: 0.0 Total time (s): 117.12527656555176
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G5.graphml Best objective: 240 Infeasibility: 0.05344165045512391 Total time (s): 306.97762298583984
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Corners726_G7.graphml Best objective: 279 Infeasibility: 0.014605258701394518 Total time (s): 163.75203013420105
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Corners600_G7.graphml Best objective: 182 Infeasibility: 0.0 Total time (s): 143.79485869407654
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Corners726_G9.graphml Best objective: 247 Infeasibility: 0.0 Total time (s): 301.3136155605316
@@ -956,7 +917,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Center600_G5.graphml Best objective: 263 Infeasibility: 0.0 Total time (s): 150.66961574554443
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Corners600_G7.graphml Best objective: 181 Infeasibility: 0.0 Total time (s): 144.360200881958
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Diagonal600_G6.graphml Best objective: 222 Infeasibility: 0.0 Total time (s): 246.39276671409607
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G7.graphml Best objective: 221 Infeasibility: 0.0 Total time (s): 202.5930953025818
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Center600_G0.graphml Best objective: 262 Infeasibility: 0.0 Total time (s): 211.33331274986267
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Corners726_G5.graphml Best objective: 257 Infeasibility: 0.0 Total time (s): 214.4048788547516
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Diagonal600_G4.graphml Best objective: 209 Infeasibility: 0.0 Total time (s): 153.58414006233215
@@ -969,11 +929,9 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Center726_G2.graphml Best objective: 251 Infeasibility: 0.0 Total time (s): 291.50822162628174
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-m-Center486_G1.graphml Best objective: 236 Infeasibility: 0.0 Total time (s): 161.1580572128296
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Diagonal726_G2.graphml Best objective: 248 Infeasibility: 0.0010457010069712695 Total time (s): 249.3353979587555
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G7.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 153.7347903251648
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Center600_G5.graphml Best objective: 257 Infeasibility: 0.017724868355460565 Total time (s): 156.7897229194641
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-l-Center600_G5.graphml Best objective: 266 Infeasibility: 0.002180259076810685 Total time (s): 229.92472386360168
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Corners726_G4.graphml Best objective: 239 Infeasibility: 0.0 Total time (s): 182.095600605011
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G4.graphml Best objective: 234 Infeasibility: 0.0 Total time (s): 157.75725960731506
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Corners486_G5.graphml Best objective: 212 Infeasibility: 0.04256619144602846 Total time (s): 177.35906219482422
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Diagonal486_G6.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 137.5311577320099
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Corners486_G5.graphml Best objective: 298 Infeasibility: 0.0 Total time (s): 115.5085608959198
@@ -1000,7 +958,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Corners600_G7.graphml Best objective: 192 Infeasibility: 0.0 Total time (s): 152.1704225540161
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Corners600_G2.graphml Best objective: 243 Infeasibility: 0.0 Total time (s): 161.3261239528656
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Center600_G5.graphml Best objective: 267 Infeasibility: 0.0 Total time (s): 252.49413537979126
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G8.graphml Best objective: 231 Infeasibility: 0.0 Total time (s): 236.46431422233582
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Center600_G3.graphml Best objective: 224 Infeasibility: 0.021516252611072317 Total time (s): 153.50809025764465
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Center486_G6.graphml Best objective: 206 Infeasibility: 0.0 Total time (s): 130.00531935691833
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Center486_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 232.85843515396118
@@ -1011,7 +968,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Center600_G4.graphml Best objective: 227 Infeasibility: 0.0 Total time (s): 243.2336893081665
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Center726_G1.graphml Best objective: 289 Infeasibility: 0.027830965225540162 Total time (s): 279.83309626579285
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Diagonal726_G4.graphml Best objective: 239 Infeasibility: 0.0 Total time (s): 180.6420772075653
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G5.graphml Best objective: 211 Infeasibility: 0.004689921388521028 Total time (s): 262.26614570617676
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-m-Corners726_G1.graphml Best objective: 255 Infeasibility: 0.04435702936804871 Total time (s): 226.58235836029053
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-m-Corners726_G8.graphml Best objective: 264 Infeasibility: 0.0 Total time (s): 218.16120076179504
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Center486_G5.graphml Best objective: 167 Infeasibility: 0.10958678669151739 Total time (s): 154.75705337524414
@@ -1036,10 +992,7 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Center486_G9.graphml Best objective: 161 Infeasibility: 0.0 Total time (s): 119.72079873085022
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-h-Center486_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 180.46973657608032
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-m-Diagonal486_G5.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 104.70437860488892
-Instance: TGraphInstances/planar600_G0.graphml Best objective: 44.191915407750415 Infeasibility: 0.0 Total time (s): 289.1339101791382
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-m-Diagonal600_G6.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 155.11992526054382
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G8.graphml Best objective: 166 Infeasibility: 0.0 Total time (s): 117.20139694213867
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G2.graphml Best objective: 186 Infeasibility: 0.0 Total time (s): 116.32362484931946
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-m-Center600_G7.graphml Best objective: 217 Infeasibility: 0.0010221040385574357 Total time (s): 212.25915813446045
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Corners726_G4.graphml Best objective: 242 Infeasibility: 0.0 Total time (s): 184.4907431602478
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Center486_G9.graphml Best objective: 161 Infeasibility: 0.0 Total time (s): 112.03631663322449
@@ -1048,9 +1001,7 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Center600_G9.graphml Best objective: 230 Infeasibility: 0.0 Total time (s): 147.15522122383118
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-l-Center726_G1.graphml Best objective: 289 Infeasibility: 0.03317540790624522 Total time (s): 416.5050599575043
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 176.22867059707642
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G9.graphml Best objective: 209 Infeasibility: 0.0 Total time (s): 195.28683018684387
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Corners486_G1.graphml Best objective: 187 Infeasibility: 0.0 Total time (s): 104.12133955955505
-Instance: TGraphInstances/planar700_G8.graphml Best objective: 45.577381849564546 Infeasibility: 0.0 Total time (s): 491.79602122306824
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-l-Corners726_G5.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 179.96811628341675
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Center726_G2.graphml Best objective: 228 Infeasibility: 0.0 Total time (s): 196.71186661720276
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Center600_G2.graphml Best objective: 205 Infeasibility: 0.0 Total time (s): 145.96390795707703
@@ -1061,7 +1012,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Center600_G7.graphml Best objective: 210 Infeasibility: 0.0 Total time (s): 169.02733302116394
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Corners486_G8.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 137.55560684204102
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-h-Diagonal486_G8.graphml Best objective: 168 Infeasibility: 0.013867083350288523 Total time (s): 109.54532957077026
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G6.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 193.4821560382843
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Center486_G2.graphml Best objective: 201 Infeasibility: 0.0 Total time (s): 157.66759657859802
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Center600_G2.graphml Best objective: 214 Infeasibility: 0.0 Total time (s): 368.1419641971588
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Diagonal486_G4.graphml Best objective: 188 Infeasibility: 0.0 Total time (s): 114.17884492874146
@@ -1095,7 +1045,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-m-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Diagonal726_G0.graphml Best objective: 274 Infeasibility: 0.0 Total time (s): 214.7422592639923
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-h-Diagonal600_G1.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 181.25938177108765
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Diagonal486_G2.graphml Best objective: 203 Infeasibility: 0.015226632575112685 Total time (s): 124.4789206981659
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G7.graphml Best objective: 231 Infeasibility: 0.00420401195049072 Total time (s): 243.14254713058472
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Center600_G2.graphml Best objective: 204 Infeasibility: 0.0 Total time (s): 172.24615788459778
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-m-Corners486_G6.graphml Best objective: 197 Infeasibility: 0.003047750652540918 Total time (s): 179.42845344543457
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Center600_G4.graphml Best objective: 227 Infeasibility: 0.0 Total time (s): 183.87114095687866
@@ -1149,7 +1098,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-h-Center726_G1.graphml Best objective: 271 Infeasibility: 0.1552477084427391 Total time (s): 288.0932478904724
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Diagonal726_G8.graphml Best objective: 253 Infeasibility: 0.06056120600080226 Total time (s): 309.6349856853485
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Diagonal726_G6.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 185.15496253967285
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G5.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 141.7703733444214
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-h-Center486_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 133.22686982154846
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Center726_G4.graphml Best objective: 251 Infeasibility: 0.0 Total time (s): 197.7466745376587
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Diagonal600_G9.graphml Best objective: 222 Infeasibility: 0.0 Total time (s): 199.23701095581055
@@ -1164,7 +1112,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Corners726_G2.graphml Best objective: 243 Infeasibility: 0.0 Total time (s): 176.0604875087738
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-h-Center486_G9.graphml Best objective: 157 Infeasibility: 0.0 Total time (s): 133.03101325035095
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Corners486_G9.graphml Best objective: 199 Infeasibility: 0.0 Total time (s): 198.8032042980194
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G5.graphml Best objective: 205 Infeasibility: 0.0 Total time (s): 130.21617674827576
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Diagonal726_G0.graphml Best objective: 275 Infeasibility: 0.0 Total time (s): 561.4125165939331
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Center600_G3.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 183.94821214675903
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Corners726_G8.graphml Best objective: 264 Infeasibility: 0.0027415143603133157 Total time (s): 336.19305658340454
@@ -1208,7 +1155,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-m-Center486_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 248.0900843143463
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Corners726_G0.graphml Best objective: 240 Infeasibility: 0.009045123249529172 Total time (s): 214.0573239326477
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Diagonal600_G3.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 141.0793149471283
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G1.graphml Best objective: 251 Infeasibility: 0.0 Total time (s): 195.30257391929626
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Corners486_G1.graphml Best objective: 178 Infeasibility: 0.0 Total time (s): 124.7810435295105
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-h-Diagonal486_G7.graphml Best objective: 161 Infeasibility: 0.0 Total time (s): 113.72166180610657
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Center726_G0.graphml Best objective: 269 Infeasibility: 0.0 Total time (s): 170.57335305213928
@@ -1217,7 +1163,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-m-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Corners726_G7.graphml Best objective: 278 Infeasibility: 0.0 Total time (s): 184.39110827445984
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Corners600_G7.graphml Best objective: 180 Infeasibility: 0.0 Total time (s): 159.15220713615417
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Corners600_G9.graphml Best objective: 237 Infeasibility: 0.0 Total time (s): 182.91486930847168
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G2.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 211.94504404067993
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Center726_G5.graphml Best objective: 268 Infeasibility: 0.03718328735201967 Total time (s): 333.38931345939636
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Diagonal600_G8.graphml Best objective: 247 Infeasibility: 0.042028688278969877 Total time (s): 181.27854800224304
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Center600_G9.graphml Best objective: 198 Infeasibility: 0.0 Total time (s): 173.15547609329224
@@ -1226,7 +1171,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Diagonal600_G3.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 135.27380895614624
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-m-Diagonal600_G7.graphml Best objective: 271 Infeasibility: 0.028189300411522632 Total time (s): 547.5070071220398
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-l-Corners600_G8.graphml Best objective: 231 Infeasibility: 0.0 Total time (s): 171.79019832611084
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G6.graphml Best objective: 234 Infeasibility: 0.17074684975625415 Total time (s): 336.671626329422
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Corners486_G1.graphml Best objective: 186 Infeasibility: 0.0 Total time (s): 112.87129855155945
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-h-Corners486_G1.graphml Best objective: 171 Infeasibility: 0.0 Total time (s): 127.2317910194397
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Corners600_G2.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 408.97400403022766
@@ -1254,7 +1198,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Corners726_G2.graphml Best objective: 254 Infeasibility: 0.0 Total time (s): 178.0545585155487
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Corners726_G0.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 313.739465713501
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Diagonal600_G1.graphml Best objective: 232 Infeasibility: 0.012605907454070921 Total time (s): 242.3808057308197
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G0.graphml Best objective: 258 Infeasibility: 0.0 Total time (s): 154.14004707336426
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Corners726_G9.graphml Best objective: 261 Infeasibility: 0.0 Total time (s): 298.53328227996826
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-h-Center486_G9.graphml Best objective: 161 Infeasibility: 0.0 Total time (s): 115.1635148525238
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Corners600_G2.graphml Best objective: 237 Infeasibility: 0.0 Total time (s): 253.26003527641296
@@ -1265,7 +1208,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-m-Diagonal726_G9.graphml Best objective: 246 Infeasibility: 0.0 Total time (s): 180.00444865226746
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Center600_G8.graphml Best objective: 214 Infeasibility: 0.0 Total time (s): 151.33113765716553
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Center600_G5.graphml Best objective: 257 Infeasibility: 0.027427411801436104 Total time (s): 216.7126133441925
-Instance: TGraphInstances/planar700_G5.graphml Best objective: 43.974906563358715 Infeasibility: 0.0 Total time (s): 542.333874464035
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Corners600_G4.graphml Best objective: 202 Infeasibility: 0.0 Total time (s): 146.13470554351807
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Diagonal600_G4.graphml Best objective: 193 Infeasibility: 0.0 Total time (s): 140.32025337219238
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Corners726_G9.graphml Best objective: 279 Infeasibility: 0.0 Total time (s): 183.84290981292725
@@ -1281,7 +1223,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Diagonal486_G9.graphml Best objective: 193 Infeasibility: 0.0 Total time (s): 111.28246474266052
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Diagonal486_G9.graphml Best objective: 212 Infeasibility: 0.013816977724262417 Total time (s): 121.42412304878235
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Diagonal726_G4.graphml Best objective: 280 Infeasibility: 0.0 Total time (s): 178.37047624588013
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G1.graphml Best objective: 242 Infeasibility: 0.0 Total time (s): 209.18283367156982
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Corners600_G0.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 167.53883051872253
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-l-Diagonal726_G8.graphml Best objective: 302 Infeasibility: 0.0 Total time (s): 250.3474521636963
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Diagonal600_G5.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 164.57794570922852
@@ -1308,7 +1249,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Center726_G9.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 172.25222396850586
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-m-Corners726_G3.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 416.30047392845154
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Corners486_G8.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 160.05245995521545
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G2.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 156.53047370910645
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-m-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 190.45900344848633
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Corners600_G7.graphml Best objective: 182 Infeasibility: 0.0 Total time (s): 135.5630006790161
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-m-Corners600_G3.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 156.83963346481323
@@ -1319,7 +1259,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Corners600_G4.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 136.1147267818451
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-m-Corners726_G5.graphml Best objective: 246 Infeasibility: 0.028169337279547194 Total time (s): 323.6445813179016
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-l-Center486_G9.graphml Best objective: 165 Infeasibility: 0.0 Total time (s): 126.50797891616821
-Instance: TGraphInstances/planar500_G2.graphml Best objective: 46.668332754166904 Infeasibility: 0.0 Total time (s): 334.0869541168213
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-l-Diagonal486_G6.graphml Best objective: 217 Infeasibility: 0.0008073638252279128 Total time (s): 199.2153561115265
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-l-Center600_G7.graphml Best objective: 210 Infeasibility: 0.00652299358729737 Total time (s): 194.9543125629425
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Center726_G2.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 228.9686243534088
@@ -1422,7 +1361,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Center726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 215.7336630821228
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Center486_G2.graphml Best objective: 243 Infeasibility: 0.0 Total time (s): 118.95293664932251
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Diagonal600_G9.graphml Best objective: 218 Infeasibility: 0.0 Total time (s): 172.77681279182434
-Instance: TGraphInstances/planar500_G0.graphml Best objective: 47.155942046957705 Infeasibility: 0.0 Total time (s): 350.19389271736145
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-l-Center726_G4.graphml Best objective: 247 Infeasibility: 0.0 Total time (s): 209.14287996292114
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Center600_G6.graphml Best objective: 193 Infeasibility: 0.030459150171811243 Total time (s): 116.07988786697388
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Corners486_G3.graphml Best objective: 169 Infeasibility: 0.0 Total time (s): 102.50725746154785
@@ -1460,7 +1398,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Center600_G9.graphml Best objective: 228 Infeasibility: 0.0 Total time (s): 150.37659096717834
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-h-Center486_G3.graphml Best objective: 193 Infeasibility: 0.0 Total time (s): 103.1462893486023
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Center600_G8.graphml Best objective: 217 Infeasibility: 0.0 Total time (s): 140.7934501171112
-Instance: TGraphInstances/planar500_G1.graphml Best objective: 47.178983535693426 Infeasibility: 0.0 Total time (s): 181.18128848075867
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-l-Diagonal486_G6.graphml Best objective: 224 Infeasibility: 0.0 Total time (s): 120.89366936683655
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Center726_G5.graphml Best objective: 271 Infeasibility: 0.0018103620724144282 Total time (s): 413.2430877685547
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-h-Corners600_G3.graphml Best objective: 238 Infeasibility: 0.0 Total time (s): 134.9108715057373
@@ -1477,7 +1414,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Diagonal726_G2.graphml Best objective: 255 Infeasibility: 0.0 Total time (s): 184.2402045726776
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Center486_G5.graphml Best objective: 198 Infeasibility: 0.0 Total time (s): 274.16297721862793
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Corners600_G0.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 178.14371275901794
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G5.graphml Best objective: 261 Infeasibility: 0.0 Total time (s): 187.25824093818665
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-l-Center486_G3.graphml Best objective: 192 Infeasibility: 0.0 Total time (s): 122.19862818717957
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-m-Center486_G6.graphml Best objective: 214 Infeasibility: 0.0 Total time (s): 192.93407607078552
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Diagonal600_G3.graphml Best objective: 193 Infeasibility: 0.0 Total time (s): 146.1582727432251
@@ -1501,7 +1437,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Corners486_G4.graphml Best objective: 222 Infeasibility: 0.0 Total time (s): 119.08599209785461
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Center486_G3.graphml Best objective: 188 Infeasibility: 0.0 Total time (s): 134.34724617004395
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-l-Diagonal726_G9.graphml Best objective: 254 Infeasibility: 0.12818991857084813 Total time (s): 235.75984978675842
-Instance: TGraphInstances/planar600_G6.graphml Best objective: 45.88444739056114 Infeasibility: 0.0 Total time (s): 296.6810095310211
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Corners600_G4.graphml Best objective: 209 Infeasibility: 0.00011933174224348784 Total time (s): 444.7083041667938
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-m-Diagonal486_G3.graphml Best objective: 180 Infeasibility: 0.0 Total time (s): 109.1004045009613
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Diagonal726_G1.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 176.77202796936035
@@ -1509,13 +1444,11 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-l-Cente
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Center600_G7.graphml Best objective: 234 Infeasibility: 0.0 Total time (s): 176.68646931648254
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Diagonal726_G8.graphml Best objective: 270 Infeasibility: 0.0 Total time (s): 283.5172715187073
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Corners726_G0.graphml Best objective: 247 Infeasibility: 0.0 Total time (s): 196.65389370918274
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G9.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 199.2636435031891
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Center726_G7.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 193.58116006851196
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Corners600_G0.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 175.15525126457214
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Diagonal600_G8.graphml Best objective: 247 Infeasibility: 0.0617183170460467 Total time (s): 180.93792128562927
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-h-Corners600_G9.graphml Best objective: 226 Infeasibility: 0.0 Total time (s): 155.98116612434387
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Corners600_G6.graphml Best objective: 224 Infeasibility: 0.0 Total time (s): 145.5429871082306
-Instance: TGraphInstances/planar700_G4.graphml Best objective: 46.419257670875254 Infeasibility: 0.0 Total time (s): 376.8437159061432
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-m-Corners486_G8.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 135.59784364700317
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-m-Diagonal726_G9.graphml Best objective: 252 Infeasibility: 0.038884582906414056 Total time (s): 248.35234785079956
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Diagonal600_G0.graphml Best objective: 213 Infeasibility: 0.02158469945355185 Total time (s): 451.05275678634644
@@ -1534,7 +1467,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Center726_G5.graphml Best objective: 268 Infeasibility: 0.012600093558239744 Total time (s): 266.65502882003784
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-h-Corners486_G9.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 111.4110951423645
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Corners486_G6.graphml Best objective: 196 Infeasibility: 0.0 Total time (s): 131.87857460975647
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G3.graphml Best objective: 230 Infeasibility: 0.0 Total time (s): 167.45122051239014
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-l-Corners486_G8.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 174.13605642318726
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-h-Center486_G8.graphml Best objective: 205 Infeasibility: 0.0006893910379162285 Total time (s): 190.5590147972107
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Corners726_G2.graphml Best objective: 238 Infeasibility: 0.0 Total time (s): 193.763258934021
@@ -1542,14 +1474,12 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Center726_G2.graphml Best objective: 256 Infeasibility: 0.0 Total time (s): 212.15369939804077
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-m-Diagonal600_G5.graphml Best objective: 207 Infeasibility: 0.0 Total time (s): 260.8215026855469
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-h-Diagonal600_G9.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 238.88789010047913
-Instance: TGraphInstances/planar500_G4.graphml Best objective: 43.83905667540275 Infeasibility: 0.0 Total time (s): 316.3482689857483
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-h-Center726_G5.graphml Best objective: 300 Infeasibility: 0.0 Total time (s): 267.259423494339
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-l-Corners600_G3.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 148.37295126914978
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Center726_G9.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 176.17900609970093
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Diagonal600_G8.graphml Best objective: 239 Infeasibility: 0.011173340800896133 Total time (s): 171.54558992385864
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Corners486_G6.graphml Best objective: 202 Infeasibility: 0.0 Total time (s): 136.3324818611145
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Diagonal486_G9.graphml Best objective: 190 Infeasibility: 0.0 Total time (s): 118.7927896976471
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G8.graphml Best objective: 224 Infeasibility: 0.0 Total time (s): 527.0463559627533
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Center486_G5.graphml Best objective: 184 Infeasibility: 0.03886402178051041 Total time (s): 186.1530740261078
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Corners726_G0.graphml Best objective: 240 Infeasibility: 0.02182953827813105 Total time (s): 221.68077111244202
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Center600_G4.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 292.10408449172974
@@ -1635,7 +1565,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-m-Center600_G0.graphml Best objective: 289 Infeasibility: 0.0 Total time (s): 148.89812564849854
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-l-Corners726_G1.graphml Best objective: 258 Infeasibility: 0.017748200616931303 Total time (s): 326.3908655643463
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-m-Corners486_G2.graphml Best objective: 189 Infeasibility: 0.0 Total time (s): 188.60398507118225
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G7.graphml Best objective: 180 Infeasibility: 0.0 Total time (s): 141.24083018302917
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Corners726_G8.graphml Best objective: 239 Infeasibility: 0.12808401390586682 Total time (s): 263.32460713386536
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-l-Diagonal726_G0.graphml Best objective: 271 Infeasibility: 0.0 Total time (s): 199.41681361198425
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Center486_G6.graphml Best objective: 198 Infeasibility: 0.025204403152524292 Total time (s): 131.5619559288025
@@ -1646,7 +1575,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Center486_G5.graphml Best objective: 172 Infeasibility: 0.0 Total time (s): 132.97687292099
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-m-Diagonal600_G2.graphml Best objective: 242 Infeasibility: 0.0015472797880969852 Total time (s): 434.67040371894836
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Diagonal486_G7.graphml Best objective: 161 Infeasibility: 0.0 Total time (s): 112.78101015090942
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G8.graphml Best objective: 280 Infeasibility: 0.0 Total time (s): 248.91909170150757
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Center600_G5.graphml Best objective: 263 Infeasibility: 0.005291202505621354 Total time (s): 410.08658599853516
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-m-Diagonal600_G0.graphml Best objective: 211 Infeasibility: 0.0 Total time (s): 171.5881929397583
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Diagonal600_G2.graphml Best objective: 234 Infeasibility: 0.002855645795126998 Total time (s): 266.0887403488159
@@ -1661,7 +1589,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Center486_G6.graphml Best objective: 210 Infeasibility: 0.008531336570669875 Total time (s): 158.13053274154663
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Center726_G9.graphml Best objective: 257 Infeasibility: 0.0 Total time (s): 166.69133257865906
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Center726_G8.graphml Best objective: 250 Infeasibility: 0.01437975799626421 Total time (s): 192.21574926376343
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G3.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 156.07373809814453
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Center600_G7.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 259.952534198761
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Diagonal726_G4.graphml Best objective: 236 Infeasibility: 0.0 Total time (s): 193.8037703037262
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Diagonal600_G6.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 168.45588636398315
@@ -1677,11 +1604,8 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Cente
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-l-Center600_G8.graphml Best objective: 220 Infeasibility: 0.02196081191008494 Total time (s): 390.8869569301605
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Corners726_G3.graphml Best objective: 237 Infeasibility: 0.0 Total time (s): 206.84838604927063
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Corners486_G1.graphml Best objective: 201 Infeasibility: 0.0 Total time (s): 107.13287234306335
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G4.graphml Best objective: 245 Infeasibility: 0.0 Total time (s): 190.18558192253113
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Diagonal726_G5.graphml Best objective: 218 Infeasibility: 0.050648257522060536 Total time (s): 347.8668279647827
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G0.graphml Best objective: 219 Infeasibility: 0.16265769671771643 Total time (s): 152.23685932159424
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-l-Corners600_G2.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 179.97433853149414
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G6.graphml Best objective: 228 Infeasibility: 0.017688378033205505 Total time (s): 196.74145460128784
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Center726_G8.graphml Best objective: 255 Infeasibility: 0.007677205784634723 Total time (s): 189.34542727470398
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Center600_G3.graphml Best objective: 228 Infeasibility: 0.00025002049348301275 Total time (s): 224.5639967918396
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Center600_G7.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 185.9092240333557
@@ -1713,7 +1637,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-m-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Center600_G0.graphml Best objective: 258 Infeasibility: 0.0 Total time (s): 166.849125623703
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-l-Corners726_G1.graphml Best objective: 254 Infeasibility: 0.0022291422581241964 Total time (s): 258.14010095596313
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Center726_G4.graphml Best objective: 249 Infeasibility: 0.0 Total time (s): 200.60833883285522
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G0.graphml Best objective: 264 Infeasibility: 0.0 Total time (s): 189.20569372177124
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Corners600_G3.graphml Best objective: 224 Infeasibility: 0.0 Total time (s): 147.29734110832214
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Corners486_G1.graphml Best objective: 201 Infeasibility: 0.0 Total time (s): 107.95510292053223
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-m-Diagonal486_G0.graphml Best objective: 251 Infeasibility: 0.0 Total time (s): 230.01395511627197
@@ -1743,13 +1666,11 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-l-Corners486_G6.graphml Best objective: 211 Infeasibility: 0.0 Total time (s): 135.7851173877716
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Corners726_G6.graphml Best objective: 229 Infeasibility: 0.06148658203112672 Total time (s): 459.28098154067993
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Corners726_G3.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 206.53076696395874
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G8.graphml Best objective: 231 Infeasibility: 0.0 Total time (s): 156.93403267860413
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-m-Diagonal726_G4.graphml Best objective: 265 Infeasibility: 0.0 Total time (s): 197.03446769714355
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Diagonal600_G7.graphml Best objective: 261 Infeasibility: 0.025629516982747822 Total time (s): 213.377685546875
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Corners726_G1.graphml Best objective: 257 Infeasibility: 0.017123287671232876 Total time (s): 243.50958800315857
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-m-Diagonal600_G1.graphml Best objective: 234 Infeasibility: 0.0 Total time (s): 190.82823610305786
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Center600_G8.graphml Best objective: 225 Infeasibility: 0.0 Total time (s): 251.4726665019989
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G3.graphml Best objective: 189 Infeasibility: 0.0 Total time (s): 120.83643364906311
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Corners486_G0.graphml Best objective: 199 Infeasibility: 0.06865683688123421 Total time (s): 139.13655304908752
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-l-Center600_G7.graphml Best objective: 217 Infeasibility: 0.004248033241907104 Total time (s): 440.5302538871765
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Diagonal726_G8.graphml Best objective: 266 Infeasibility: 0.010892073613434802 Total time (s): 338.17184710502625
@@ -1759,7 +1680,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Diagonal726_G7.graphml Best objective: 224 Infeasibility: 0.0 Total time (s): 198.1993203163147
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-m-Diagonal486_G1.graphml Best objective: 190 Infeasibility: 0.0 Total time (s): 121.45930695533752
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Center600_G0.graphml Best objective: 258 Infeasibility: 0.0022030209089108177 Total time (s): 160.39556431770325
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G9.graphml Best objective: 250 Infeasibility: 0.0 Total time (s): 335.8781497478485
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Center726_G6.graphml Best objective: 286 Infeasibility: 0.03578983282156261 Total time (s): 253.23841500282288
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 175.4421784877777
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Diagonal726_G4.graphml Best objective: 237 Infeasibility: 0.0 Total time (s): 197.40953254699707
@@ -1797,7 +1717,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-m-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-m-Diagonal600_G8.graphml Best objective: 282 Infeasibility: 0.0 Total time (s): 177.56694722175598
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Diagonal486_G3.graphml Best objective: 182 Infeasibility: 0.0 Total time (s): 112.46243596076965
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Center726_G7.graphml Best objective: 216 Infeasibility: 0.010293171189172973 Total time (s): 493.14781641960144
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G3.graphml Best objective: 229 Infeasibility: 0.0 Total time (s): 252.52249956130981
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-l-Diagonal600_G4.graphml Best objective: 197 Infeasibility: 0.0 Total time (s): 172.75337672233582
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-h-Center600_G7.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 151.46327185630798
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Center726_G7.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 225.04096007347107
@@ -1814,7 +1733,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Corne
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-l-Corners726_G0.graphml Best objective: 242 Infeasibility: 0.0 Total time (s): 271.6295793056488
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Center726_G7.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 230.24440455436707
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Corners486_G6.graphml Best objective: 195 Infeasibility: 0.0 Total time (s): 125.50323176383972
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G9.graphml Best objective: 192 Infeasibility: 0.0 Total time (s): 179.4704191684723
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-m-Diagonal486_G7.graphml Best objective: 162 Infeasibility: 0.0 Total time (s): 108.10320353507996
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-m-Diagonal726_G0.graphml Best objective: 298 Infeasibility: 0.0 Total time (s): 182.30278897285461
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-h-Diagonal600_G8.graphml Best objective: 239 Infeasibility: 0.05097620117488889 Total time (s): 309.7735707759857
@@ -1829,8 +1747,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-m-Center600_G0.graphml Best objective: 265 Infeasibility: 0.0 Total time (s): 146.4029564857483
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Center486_G7.graphml Best objective: 185 Infeasibility: 0.027124858125931225 Total time (s): 179.21792030334473
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Corners726_G5.graphml Best objective: 256 Infeasibility: 0.0 Total time (s): 160.3181312084198
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G9.graphml Best objective: 196 Infeasibility: 0.0 Total time (s): 141.60235023498535
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G4.graphml Best objective: 239 Infeasibility: 0.0 Total time (s): 193.21015214920044
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Corners486_G7.graphml Best objective: 176 Infeasibility: 0.002750650427962774 Total time (s): 183.22144603729248
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Center600_G0.graphml Best objective: 280 Infeasibility: 0.0 Total time (s): 166.73053169250488
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-l-Diagonal486_G6.graphml Best objective: 222 Infeasibility: 0.0 Total time (s): 195.93130731582642
@@ -1838,7 +1754,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-l-Corners486_G5.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 153.5261652469635
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Corners486_G3.graphml Best objective: 156 Infeasibility: 0.0 Total time (s): 114.63084673881531
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Center726_G7.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 199.7933087348938
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G9.graphml Best objective: 188 Infeasibility: 0.03341066256129999 Total time (s): 133.48515963554382
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-h-Diagonal600_G7.graphml Best objective: 250 Infeasibility: 0.0 Total time (s): 144.12439632415771
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Corners726_G5.graphml Best objective: 255 Infeasibility: 0.01429391504018362 Total time (s): 342.4858441352844
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Center486_G3.graphml Best objective: 190 Infeasibility: 0.0 Total time (s): 125.72212672233582
@@ -1849,11 +1764,9 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Diagonal486_G8.graphml Best objective: 168 Infeasibility: 0.0 Total time (s): 202.05396604537964
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Center726_G4.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 204.8080394268036
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Center726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 334.80020117759705
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 190.38531804084778
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Diagonal600_G7.graphml Best objective: 268 Infeasibility: 0.0 Total time (s): 170.19456338882446
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-l-Diagonal486_G8.graphml Best objective: 171 Infeasibility: 0.00030523143497392357 Total time (s): 138.87152862548828
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Corners600_G5.graphml Best objective: 218 Infeasibility: 0.0 Total time (s): 271.4629533290863
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G6.graphml Best objective: 213 Infeasibility: 0.018038267267471784 Total time (s): 162.11553263664246
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Corners600_G9.graphml Best objective: 226 Infeasibility: 0.0 Total time (s): 148.60131645202637
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-m-Corners600_G3.graphml Best objective: 226 Infeasibility: 0.0 Total time (s): 152.9663257598877
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Center486_G6.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 112.72525143623352
@@ -1867,7 +1780,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-m-Diagonal600_G4.graphml Best objective: 201 Infeasibility: 0.0 Total time (s): 138.48169445991516
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Corners726_G3.graphml Best objective: 228 Infeasibility: 0.0 Total time (s): 538.3399951457977
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-l-Diagonal486_G3.graphml Best objective: 200 Infeasibility: 0.0 Total time (s): 115.8397765159607
-Instance: TGraphInstances/planar600_G4.graphml Best objective: 43.91499951757432 Infeasibility: 0.0 Total time (s): 675.884122133255
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-h-Center726_G4.graphml Best objective: 263 Infeasibility: 0.0 Total time (s): 188.30853700637817
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-m-Center486_G2.graphml Best objective: 195 Infeasibility: 0.0 Total time (s): 121.99101662635803
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-m-Center486_G9.graphml Best objective: 161 Infeasibility: 0.0 Total time (s): 103.94963383674622
@@ -1899,7 +1811,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Diagonal726_G0.graphml Best objective: 262 Infeasibility: 0.0 Total time (s): 225.09570455551147
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Diagonal726_G7.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 190.6115255355835
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Center486_G0.graphml Best objective: 206 Infeasibility: 0.06232409121737306 Total time (s): 370.8382205963135
-Instance: TGraphInstances/planar700_G3.graphml Best objective: 45.701637752512084 Infeasibility: 0.0 Total time (s): 712.959558725357
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Diagonal600_G9.graphml Best objective: 209 Infeasibility: 0.005879390658441201 Total time (s): 386.3044583797455
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-h-Diagonal600_G6.graphml Best objective: 265 Infeasibility: 0.0 Total time (s): 152.83903622627258
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Diagonal486_G0.graphml Best objective: 200 Infeasibility: 0.16414265412819556 Total time (s): 129.59083724021912
@@ -1913,7 +1824,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Diagonal486_G9.graphml Best objective: 204 Infeasibility: 0.0 Total time (s): 169.65866565704346
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Diagonal486_G4.graphml Best objective: 186 Infeasibility: 0.0 Total time (s): 210.70499110221863
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Corners726_G1.graphml Best objective: 261 Infeasibility: 0.042675747431605446 Total time (s): 249.6874303817749
-Instance: TGraphInstances/planar700_G6.graphml Best objective: 46.891931635502424 Infeasibility: 0.0 Total time (s): 333.78287959098816
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Diagonal726_G5.graphml Best objective: 218 Infeasibility: 0.0 Total time (s): 206.1429009437561
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-h-Corners726_G2.graphml Best objective: 259 Infeasibility: 0.0 Total time (s): 180.02160120010376
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Center726_G3.graphml Best objective: 249 Infeasibility: 0.0 Total time (s): 301.8515326976776
@@ -1934,7 +1844,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-m-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Diagonal600_G6.graphml Best objective: 282 Infeasibility: 0.0 Total time (s): 158.10606241226196
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Corners486_G8.graphml Best objective: 223 Infeasibility: 0.02213409158934445 Total time (s): 320.3242235183716
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Center726_G1.graphml Best objective: 289 Infeasibility: 0.0 Total time (s): 303.10422682762146
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G6.graphml Best objective: 196 Infeasibility: 0.00017667844522968197 Total time (s): 229.75830054283142
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Corners600_G8.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 196.3731005191803
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Corners726_G8.graphml Best objective: 265 Infeasibility: 0.0008280698264285888 Total time (s): 292.7391531467438
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-h-Center486_G4.graphml Best objective: 210 Infeasibility: 0.06884498480243172 Total time (s): 151.22516703605652
@@ -1947,7 +1856,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Diagonal486_G3.graphml Best objective: 182 Infeasibility: 0.0 Total time (s): 127.19926762580872
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-m-Diagonal600_G9.graphml Best objective: 220 Infeasibility: 0.0 Total time (s): 329.19593024253845
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Corners726_G2.graphml Best objective: 239 Infeasibility: 0.0 Total time (s): 183.2221975326538
-Instance: TGraphInstances/planar600_G7.graphml Best objective: 46.85094511129218 Infeasibility: 0.0 Total time (s): 399.466566324234
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Diagonal726_G0.graphml Best objective: 292 Infeasibility: 0.0 Total time (s): 188.86079096794128
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-l-Corners726_G2.graphml Best objective: 238 Infeasibility: 0.0 Total time (s): 209.2155249118805
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Diagonal600_G2.graphml Best objective: 234 Infeasibility: 0.0 Total time (s): 185.19858598709106
@@ -1966,7 +1874,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-m-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Center600_G9.graphml Best objective: 214 Infeasibility: 0.0 Total time (s): 144.1683349609375
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-h-Corners486_G6.graphml Best objective: 195 Infeasibility: 0.005097882894853333 Total time (s): 191.49276971817017
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Corners726_G1.graphml Best objective: 303 Infeasibility: 0.0 Total time (s): 329.60242319107056
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G0.graphml Best objective: 215 Infeasibility: 0.027969838129216017 Total time (s): 264.2732791900635
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 169.4556770324707
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Diagonal486_G9.graphml Best objective: 204 Infeasibility: 0.001079734219269065 Total time (s): 340.2666115760803
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Center486_G4.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 176.65332007408142
@@ -2006,7 +1913,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Corners726_G8.graphml Best objective: 263 Infeasibility: 0.0 Total time (s): 218.9868586063385
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-m-Corners486_G0.graphml Best objective: 211 Infeasibility: 0.0 Total time (s): 116.90200161933899
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Center726_G2.graphml Best objective: 258 Infeasibility: 0.0 Total time (s): 191.7620759010315
-Instance: TGraphInstances/planar600_G9.graphml Best objective: 45.596514605836184 Infeasibility: 0.0 Total time (s): 365.9527928829193
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-h-Corners486_G2.graphml Best objective: 189 Infeasibility: 0.005201838115914829 Total time (s): 153.14767384529114
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-h-Center726_G4.graphml Best objective: 254 Infeasibility: 0.0 Total time (s): 190.66877269744873
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Center486_G7.graphml Best objective: 180 Infeasibility: 0.0 Total time (s): 162.2075479030609
@@ -2015,7 +1921,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 178.42561554908752
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Center600_G6.graphml Best objective: 226 Infeasibility: 0.03482977776629425 Total time (s): 196.67522025108337
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Diagonal600_G9.graphml Best objective: 209 Infeasibility: 0.0 Total time (s): 136.86416244506836
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G2.graphml Best objective: 200 Infeasibility: 0.0 Total time (s): 111.07273626327515
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Diagonal726_G2.graphml Best objective: 265 Infeasibility: 0.0 Total time (s): 355.77309131622314
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Corners600_G2.graphml Best objective: 237 Infeasibility: 0.0 Total time (s): 159.84484815597534
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Center726_G9.graphml Best objective: 266 Infeasibility: 0.0 Total time (s): 172.74072551727295
@@ -2030,7 +1935,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-l-Diagonal486_G4.graphml Best objective: 188 Infeasibility: 0.0 Total time (s): 117.81206035614014
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Diagonal600_G3.graphml Best objective: 196 Infeasibility: 0.0 Total time (s): 142.60549664497375
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Diagonal600_G6.graphml Best objective: 283 Infeasibility: 0.0 Total time (s): 199.05430555343628
-Instance: TGraphInstances/planar700_G1.graphml Best objective: 44.27469639233895 Infeasibility: 0.0 Total time (s): 531.058694601059
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Corners726_G7.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 186.17855525016785
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-m-Diagonal600_G4.graphml Best objective: 216 Infeasibility: 0.0 Total time (s): 203.60796999931335
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Diagonal726_G8.graphml Best objective: 265 Infeasibility: 0.03136234626300842 Total time (s): 385.71107840538025
@@ -2050,7 +1954,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Corners486_G0.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 159.06375885009766
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Corners726_G4.graphml Best objective: 243 Infeasibility: 0.0 Total time (s): 171.09346771240234
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-m-Corners486_G9.graphml Best objective: 201 Infeasibility: 0.0029911934406315114 Total time (s): 181.64427495002747
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G6.graphml Best objective: 216 Infeasibility: 0.0 Total time (s): 166.61495900154114
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Diagonal726_G4.graphml Best objective: 270 Infeasibility: 0.0 Total time (s): 196.73286652565002
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-l-Corners486_G7.graphml Best objective: 168 Infeasibility: 0.0 Total time (s): 128.08819818496704
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Diagonal486_G9.graphml Best objective: 204 Infeasibility: 0.0 Total time (s): 277.2484805583954
@@ -2074,7 +1977,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-m-Corners486_G4.graphml Best objective: 222 Infeasibility: 0.0 Total time (s): 112.48672318458557
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-m-Corners726_G9.graphml Best objective: 274 Infeasibility: 0.0 Total time (s): 216.28741931915283
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Corners600_G6.graphml Best objective: 226 Infeasibility: 0.004885552547378818 Total time (s): 199.53268718719482
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G8.graphml Best objective: 200 Infeasibility: 0.0 Total time (s): 126.97275114059448
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-l-Center486_G9.graphml Best objective: 161 Infeasibility: 0.0 Total time (s): 120.44054579734802
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Diagonal726_G9.graphml Best objective: 265 Infeasibility: 0.04505703422053232 Total time (s): 283.3876938819885
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-m-Corners726_G7.graphml Best objective: 258 Infeasibility: 0.0 Total time (s): 569.056298494339
@@ -2098,13 +2000,11 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-m-Corners486_G9.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 111.6768684387207
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-l_c-m-Center600_G2.graphml Best objective: 197 Infeasibility: 0.0 Total time (s): 150.98908925056458
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Diagonal600_G4.graphml Best objective: 191 Infeasibility: 0.0 Total time (s): 161.12937307357788
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G2.graphml Best objective: 255 Infeasibility: 0.0 Total time (s): 183.23812007904053
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-m-Diagonal486_G3.graphml Best objective: 189 Infeasibility: 0.0 Total time (s): 113.87271928787231
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Center486_G9.graphml Best objective: 162 Infeasibility: 0.0 Total time (s): 127.31020331382751
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-m-Diagonal486_G6.graphml Best objective: 238 Infeasibility: 0.0 Total time (s): 164.6849410533905
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Center486_G2.graphml Best objective: 251 Infeasibility: 0.0 Total time (s): 120.3546929359436
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Diagonal486_G1.graphml Best objective: 208 Infeasibility: 0.0 Total time (s): 138.18953013420105
-Instance: TGraphInstances/planar700_G7.graphml Best objective: 44.884583023475 Infeasibility: 0.0 Total time (s): 573.3593287467957
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-m-Diagonal600_G3.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 134.66122150421143
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-h-Center726_G6.graphml Best objective: 258 Infeasibility: 0.021362586456168644 Total time (s): 251.9765660762787
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-h-Center486_G8.graphml Best objective: 196 Infeasibility: 0.0 Total time (s): 134.26203846931458
@@ -2126,7 +2026,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Corners726_G8.graphml Best objective: 250 Infeasibility: 0.041033165006141736 Total time (s): 358.583144903183
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Diagonal600_G6.graphml Best objective: 235 Infeasibility: 0.0 Total time (s): 356.14145970344543
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Corners486_G1.graphml Best objective: 181 Infeasibility: 0.005555555555555532 Total time (s): 232.61789655685425
-Instance: TGraphInstances/planar500_G3.graphml Best objective: 46.858009514964166 Infeasibility: 0.0 Total time (s): 204.17804789543152
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Center726_G0.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 177.65333461761475
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-l-Corners726_G6.graphml Best objective: 237 Infeasibility: 0.014313907592291536 Total time (s): 216.38148260116577
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-h-Corners726_G0.graphml Best objective: 225 Infeasibility: 0.2377157092361516 Total time (s): 222.34573197364807
@@ -2140,7 +2039,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-l-Center600_G5.graphml Best objective: 263 Infeasibility: 0.0 Total time (s): 206.54150366783142
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-m-Corners600_G9.graphml Best objective: 240 Infeasibility: 0.0 Total time (s): 255.19535517692566
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-h-Diagonal486_G3.graphml Best objective: 182 Infeasibility: 0.0 Total time (s): 113.65800023078918
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G7.graphml Best objective: 187 Infeasibility: 0.0 Total time (s): 127.5047550201416
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Diagonal600_G7.graphml Best objective: 250 Infeasibility: 0.002214798317248161 Total time (s): 306.8042004108429
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Corners486_G9.graphml Best objective: 193 Infeasibility: 0.006797627638920551 Total time (s): 147.5134789943695
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Diagonal486_G8.graphml Best objective: 168 Infeasibility: 0.0 Total time (s): 115.88418793678284
@@ -2167,10 +2065,8 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-l-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Diagonal726_G7.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 206.46195220947266
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-l-Diagonal726_G6.graphml Best objective: 250 Infeasibility: 0.0012048192771083367 Total time (s): 223.08134198188782
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-l-Corners726_G2.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 198.92483520507812
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G1.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 115.27313137054443
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-m-Center486_G7.graphml Best objective: 180 Infeasibility: 0.0 Total time (s): 119.72302603721619
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-m-Corners486_G6.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 170.65538263320923
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G1.graphml Best objective: 219 Infeasibility: 0.0 Total time (s): 173.25464701652527
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Diagonal486_G6.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 121.46985244750977
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Corners726_G0.graphml Best objective: 241 Infeasibility: 0.0 Total time (s): 183.1970977783203
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Diagonal726_G8.graphml Best objective: 265 Infeasibility: 0.0 Total time (s): 199.3023180961609
@@ -2244,11 +2140,9 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Diagonal726_G5.graphml Best objective: 221 Infeasibility: 0.029462287807977522 Total time (s): 317.78607749938965
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Center486_G7.graphml Best objective: 187 Infeasibility: 0.0 Total time (s): 174.4942193031311
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Diagonal726_G4.graphml Best objective: 237 Infeasibility: 0.0 Total time (s): 202.0754315853119
-Instance: TGraphInstances/planar500_G7.graphml Best objective: 45.59283490808886 Infeasibility: 0.0 Total time (s): 777.3698220252991
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-h-Diagonal726_G2.graphml Best objective: 262 Infeasibility: 0.0 Total time (s): 190.32334184646606
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Diagonal600_G8.graphml Best objective: 237 Infeasibility: 0.010753221010901962 Total time (s): 192.58571434020996
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-l-Corners486_G7.graphml Best objective: 164 Infeasibility: 0.0 Total time (s): 152.4397828578949
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Center486_G4.graphml Best objective: 228 Infeasibility: 0.0 Total time (s): 135.94628953933716
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Center486_G8.graphml Best objective: 196 Infeasibility: 0.0 Total time (s): 148.9839165210724
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-l-Center486_G0.graphml Best objective: 205 Infeasibility: 0.0 Total time (s): 175.65720748901367
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Center726_G4.graphml Best objective: 254 Infeasibility: 0.0 Total time (s): 185.51471328735352
@@ -2265,14 +2159,12 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-m_c-h-Corners486_G7.graphml Best objective: 177 Infeasibility: 0.0 Total time (s): 237.82277631759644
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Center486_G0.graphml Best objective: 213 Infeasibility: 0.01603579141687051 Total time (s): 206.49340915679932
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Diagonal726_G9.graphml Best objective: 262 Infeasibility: 0.039512637899734616 Total time (s): 276.95470452308655
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Diagonal726_G7.graphml Best objective: 216 Infeasibility: 0.0 Total time (s): 208.5256826877594
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-h-Corners486_G5.graphml Best objective: 232 Infeasibility: 0.02896347684146089 Total time (s): 184.75339007377625
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-m-Diagonal600_G8.graphml Best objective: 246 Infeasibility: 0.03352338392788367 Total time (s): 167.48536849021912
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Diagonal726_G6.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 173.54466557502747
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Diagonal486_G2.graphml Best objective: 193 Infeasibility: 0.0 Total time (s): 123.49846720695496
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Diagonal726_G7.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 192.69115710258484
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Center600_G0.graphml Best objective: 285 Infeasibility: 0.0 Total time (s): 195.0919065475464
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G6.graphml Best objective: 204 Infeasibility: 0.0 Total time (s): 155.441645860672
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Center600_G5.graphml Best objective: 257 Infeasibility: 0.03996097637587414 Total time (s): 296.1555435657501
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Center600_G4.graphml Best objective: 241 Infeasibility: 0.0 Total time (s): 182.55000352859497
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-m-Corners486_G5.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 198.87993550300598
@@ -2280,14 +2172,11 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-l-Diagonal726_G4.graphml Best objective: 257 Infeasibility: 0.0 Total time (s): 205.93317937850952
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-h-Corners600_G4.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 300.4729034900665
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-l-Diagonal726_G3.graphml Best objective: 232 Infeasibility: 0.0 Total time (s): 178.21617102622986
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G2.graphml Best objective: 221 Infeasibility: 0.0 Total time (s): 211.77700638771057
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Diagonal486_G7.graphml Best objective: 159 Infeasibility: 0.0016946251283807068 Total time (s): 161.92232155799866
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-l-Diagonal600_G4.graphml Best objective: 218 Infeasibility: 0.0 Total time (s): 162.78386068344116
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-m-Diagonal486_G5.graphml Best objective: 218 Infeasibility: 0.0 Total time (s): 125.65089058876038
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Center486_G8.graphml Best objective: 206 Infeasibility: 0.0 Total time (s): 141.07409191131592
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Corners726_G9.graphml Best objective: 256 Infeasibility: 0.0 Total time (s): 197.88680458068848
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Corners726_G8.graphml Best objective: 254 Infeasibility: 0.011452904507559718 Total time (s): 197.187646150589
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Center726_G4.graphml Best objective: 252 Infeasibility: 0.0 Total time (s): 190.69014024734497
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Center486_G4.graphml Best objective: 214 Infeasibility: 0.018294769739453248 Total time (s): 169.19861698150635
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-h-Corners600_G1.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 146.05703711509705
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Center726_G7.graphml Best objective: 234 Infeasibility: 0.0 Total time (s): 203.12894821166992
@@ -2333,7 +2222,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Diago
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-h-Center600_G7.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 213.99676990509033
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-h-Center486_G6.graphml Best objective: 206 Infeasibility: 0.01669984618673014 Total time (s): 150.79763388633728
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-l-Corners600_G8.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 264.75865268707275
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G0.graphml Best objective: 203 Infeasibility: 0.027143937296328836 Total time (s): 158.59691548347473
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Center600_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 231.00962901115417
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-m-Corners600_G3.graphml Best objective: 235 Infeasibility: 0.0 Total time (s): 222.82700514793396
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-h_c-l-Center600_G3.graphml Best objective: 224 Infeasibility: 0.02578695663713254 Total time (s): 281.1726303100586
@@ -2350,7 +2238,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Corners726_G5.graphml Best objective: 256 Infeasibility: 0.0 Total time (s): 291.0702953338623
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-m-Center600_G5.graphml Best objective: 266 Infeasibility: 0.0 Total time (s): 162.1759331226349
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-m-Center726_G8.graphml Best objective: 256 Infeasibility: 0.003778080326752862 Total time (s): 193.81580257415771
-Instance: GGraphInstances/newGeneratedInstances/27x27Graphs/Corners486_G3.graphml Best objective: 169 Infeasibility: 0.0 Total time (s): 120.16762852668762
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-l-Center486_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 204.03979992866516
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-m-Center600_G3.graphml Best objective: 233 Infeasibility: 0.0 Total time (s): 153.7173159122467
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-h-Corners600_G9.graphml Best objective: 226 Infeasibility: 0.0 Total time (s): 141.6484842300415
@@ -2365,7 +2252,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Diagonal486_G5.graphml Best objective: 203 Infeasibility: 0.0 Total time (s): 141.05899667739868
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-l-Corners486_G9.graphml Best objective: 193 Infeasibility: 0.08796000672155944 Total time (s): 167.45200204849243
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-l_c-l-Corners486_G4.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 132.93295860290527
-Instance: TGraphInstances/planar700_G0.graphml Best objective: 46.944521518688916 Infeasibility: 0.0 Total time (s): 350.5254189968109
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Center486_G5.graphml Best objective: 175 Infeasibility: 0.0023588764657757394 Total time (s): 233.31971907615662
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-h-Center726_G3.graphml Best objective: 225 Infeasibility: 0.0 Total time (s): 187.1760950088501
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-l-Center726_G2.graphml Best objective: 271 Infeasibility: 0.0 Total time (s): 231.42850399017334
@@ -2400,7 +2286,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-h-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Center600_G9.graphml Best objective: 234 Infeasibility: 0.0 Total time (s): 137.14000368118286
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-l-Corners486_G9.graphml Best objective: 205 Infeasibility: 0.013316428461656619 Total time (s): 223.07059621810913
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-h-Corners600_G0.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 147.75559210777283
-Instance: TGraphInstances/planar500_G9.graphml Best objective: 47.71124904827575 Infeasibility: 0.0 Total time (s): 149.06716442108154
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Center600_G8.graphml Best objective: 221 Infeasibility: 0.0 Total time (s): 162.63252782821655
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-l-Center486_G6.graphml Best objective: 206 Infeasibility: 0.013639901883581764 Total time (s): 128.64621996879578
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Diagonal486_G4.graphml Best objective: 186 Infeasibility: 0.0 Total time (s): 141.39445638656616
@@ -2417,7 +2302,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-h-Center600_G9.graphml Best objective: 212 Infeasibility: 0.0 Total time (s): 135.09841895103455
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-m-Diagonal600_G5.graphml Best objective: 238 Infeasibility: 0.0 Total time (s): 174.28831267356873
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-m_c-h-Diagonal600_G0.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 171.10289239883423
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Corners600_G0.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 162.97814631462097
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Diagonal726_G2.graphml Best objective: 255 Infeasibility: 0.0 Total time (s): 493.00257754325867
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-l-Corners486_G7.graphml Best objective: 168 Infeasibility: 0.0 Total time (s): 109.06976628303528
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Corners486_G3.graphml Best objective: 162 Infeasibility: 0.0 Total time (s): 193.69947481155396
@@ -2430,7 +2314,6 @@ Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-l-Corners600_G6.graphml Best objective: 245 Infeasibility: 0.0 Total time (s): 283.0777266025543
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-h_c-h-Diagonal486_G1.graphml Best objective: 190 Infeasibility: 0.0 Total time (s): 126.46387362480164
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-h_c-h-Center600_G1.graphml Best objective: 215 Infeasibility: 0.0 Total time (s): 156.0773708820343
-Instance: TGraphInstances/planar500_G8.graphml Best objective: 45.68913521521323 Infeasibility: 0.0 Total time (s): 374.0595133304596
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-l-Corners726_G0.graphml Best objective: 241 Infeasibility: 0.0 Total time (s): 248.31738901138306
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Diagonal600_G3.graphml Best objective: 194 Infeasibility: 0.0 Total time (s): 131.3088617324829
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-l-Center486_G3.graphml Best objective: 201 Infeasibility: 0.0 Total time (s): 169.5299894809723
@@ -2450,7 +2333,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-l-Diago
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-m_c-h-Diagonal726_G9.graphml Best objective: 252 Infeasibility: 0.04830748635917294 Total time (s): 232.01777005195618
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-l_c-l-Center600_G0.graphml Best objective: 258 Infeasibility: 0.0 Total time (s): 169.8774769306183
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-l-Center486_G1.graphml Best objective: 223 Infeasibility: 0.0 Total time (s): 134.86828207969666
-Instance: GGraphInstances/newGeneratedInstances/33x33Graphs/Corners726_G7.graphml Best objective: 279 Infeasibility: 0.009175685010361402 Total time (s): 193.72368216514587
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-l_w-m_c-m-Center600_G7.graphml Best objective: 214 Infeasibility: 0.0 Total time (s): 163.3213119506836
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-h_c-h-Corners486_G6.graphml Best objective: 238 Infeasibility: 0.0 Total time (s): 108.60887217521667
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-l-Center726_G5.graphml Best objective: 267 Infeasibility: 0.0 Total time (s): 198.6269371509552
@@ -2477,7 +2359,6 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Cente
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-h_c-m-Center726_G9.graphml Best objective: 248 Infeasibility: 0.0 Total time (s): 179.61928009986877
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-l-Center726_G3.graphml Best objective: 227 Infeasibility: 0.0 Total time (s): 272.35155510902405
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-l_c-m-Center486_G2.graphml Best objective: 204 Infeasibility: 0.0 Total time (s): 177.95798134803772
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Diagonal600_G5.graphml Best objective: 218 Infeasibility: 0.0 Total time (s): 168.2001976966858
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-l_c-h-Center726_G2.graphml Best objective: 254 Infeasibility: 0.0 Total time (s): 270.0475459098816
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-m_c-m-Diagonal726_G9.graphml Best objective: 279 Infeasibility: 0.015548989968393644 Total time (s): 262.32838106155396
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-m_c-h-Center600_G8.graphml Best objective: 212 Infeasibility: 0.0 Total time (s): 182.84063863754272
@@ -2499,7 +2380,6 @@ Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-m_w-h_c-l-Corne
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-l_c-h-Corners486_G6.graphml Best objective: 202 Infeasibility: 0.0 Total time (s): 138.38106846809387
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-h_c-m-Diagonal726_G2.graphml Best objective: 255 Infeasibility: 0.0 Total time (s): 191.13477683067322
 Instance: GGraphInstances/newGeneratedInstances/30x30Graphs_v2/d-h_w-l_c-m-Center600_G1.graphml Best objective: 213 Infeasibility: 0.0 Total time (s): 167.50638103485107
-Instance: GGraphInstances/newGeneratedInstances/30x30Graphs/Center600_G5.graphml Best objective: 257 Infeasibility: 0.056180868026010466 Total time (s): 359.67134308815
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-l_w-m_c-m-Diagonal486_G3.graphml Best objective: 182 Infeasibility: 0.0 Total time (s): 130.46986937522888
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-m_w-h_c-l-Center726_G1.graphml Best objective: 267 Infeasibility: 0.06901763075059221 Total time (s): 275.8350501060486
 Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-h_w-h_c-m-Diagonal486_G8.graphml Best objective: 173 Infeasibility: 0.0 Total time (s): 413.35792088508606
@@ -2548,4 +2428,3 @@ Instance: GGraphInstances/newGeneratedInstances/27x27Graphs_v2/d-m_w-m_c-m-Corne
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-m_c-h-Corners726_G1.graphml Best objective: 285 Infeasibility: 0.0 Total time (s): 174.8421769142151
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-l_w-l_c-l-Corners726_G1.graphml Best objective: 256 Infeasibility: 0.03533710513908523 Total time (s): 183.3976972103119
 Instance: GGraphInstances/newGeneratedInstances/33x33Graphs_v2/d-h_w-l_c-m-Diagonal726_G9.graphml Best objective: 262 Infeasibility: 0.0 Total time (s): 285.3894290924072
-
